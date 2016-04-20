@@ -1,8 +1,8 @@
 # infinite-runner-mario
 
-For Elm London Meetup: http://www.meetup.com/Elm-London-Meetup/events/229690276/
+For the Elm London Meetup: http://www.meetup.com/Elm-London-Meetup/events/229690276/
 
-*Task*: Hack together an infinite running game in Elm, in 90 minutes
+**Task**: Hack together an infinite running game in Elm, in 90 minutes
 
 ### Setup 
 * copy the code from : https://raw.githubusercontent.com/alltonp/infinite-runner-mario/master/InfiniteMario.elm
