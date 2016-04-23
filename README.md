@@ -11,7 +11,7 @@ For the Elm London Meetup: http://www.meetup.com/Elm-London-Meetup/events/229690
 
 ### Running
 * hit 'compile' and then click on the right half of the screen (so the game has the focus) 
-* press <kbd>up<kbd> key to jump over incoming obstacles
+* press <kbd>up</kbd> key to jump over incoming obstacles
 * if mario dies .. hit 'compile' again (ick)
 
 ### Todo
